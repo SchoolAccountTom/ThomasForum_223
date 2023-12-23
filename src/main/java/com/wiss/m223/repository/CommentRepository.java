@@ -7,5 +7,5 @@ import com.wiss.m223.model.Comment;
 
 @Repository
 public interface CommentRepository extends JpaRepository<Comment, Long> {
-    // Methoden um Kommentare zu finden, z.B. nach Post
+    
 }

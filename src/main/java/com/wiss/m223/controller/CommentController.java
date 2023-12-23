@@ -24,7 +24,7 @@ public class CommentController {
         return ResponseEntity.ok(newComment);
     }
 
-    // Weitere Endpunkte nach Bedarf
+    
 }
 
 
